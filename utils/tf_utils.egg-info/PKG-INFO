@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: tf-utils
+Version: 0.1.0
+Summary: Helper functions for the udemy course.
+Home-page: UNKNOWN
+Author: Jan Schaffranek
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved
+Programming Language :: Python :: 3.7 :: or higher
+Topic :: Software Development
+Operating System :: Microsoft :: Windows
+Operating System :: POSIX
+Operating System :: Unix
+Operating System :: MacOS
+
+Requires-Python: >=3.7,<=3.8
